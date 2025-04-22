@@ -1,4 +1,4 @@
-<img src="sal.png" alt="GitHub Banner" width="100%" />
+<img src="james.png" alt="GitHub Banner" width="100%" />
 
 # Hello World!, I'm Pisal VANN, a German Web and APP Developer 👋🏼:
 🛜 currently working on my own [webpage](https://www.tobiasmeyhoefer.de)<br>👨🏼‍🎓 studying media based computer science at RUPP in Cambodia<br>👨🏼‍💻 working as a web developer since 2022 <br>🎬 just started out with my youtube channel <i>Sal Coding</i>
