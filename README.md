@@ -1,6 +1,6 @@
 <img src="james.png" alt="GitHub Banner" width="100%" />
 
-# Hello World!, I'm Pisal VANN, a Cambodai Web and APP Developer 👋🏼:
+# Hello World!, I'm Pisal VANN, a Cambodia Web and APP Developer 👋🏼:
 <br>👨🏼‍🎓 studying media based computer science at RUPP in Cambodia<br>👨🏼‍💻 working as a web developer since 2022 <br>🎬 just started out with my youtube channel <i>Sal Coding</i>
 
 
